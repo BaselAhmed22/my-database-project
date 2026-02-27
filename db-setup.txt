@@ -1,0 +1,13 @@
+SQL vs NoSQL
+
+SQL:
+- Structured data
+- Uses tables with rows and columns
+- Fixed schema
+- Examples: MySQL, PostgreSQL
+
+NoSQL:
+- Flexible schema
+- Stores data like JSON
+- Good for large scale and unstructured data
+- Examples: MongoDB, Cassandra
